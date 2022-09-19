@@ -30,7 +30,7 @@ Capturar si un numero es negativo o positivo y contar del 0 a ese numero
 |-|-|-|-|-|-|-|
 |1|-1|no||0-1=-1||si|
 |2|1|si|0+1=1||si||
-|3|||||si|si|
+|3|||||si|si| 
 
 **ENTRADAS**
 
